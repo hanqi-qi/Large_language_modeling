@@ -13,6 +13,7 @@ Paper reading list in LLMs:
 - [Cognitive LLMs](#cognitive-llm)
 - [Model Editing](#model-edit)
 - [Safe LLMs](#safe-llm)
+- [Alignment LLMs](#alignment-llm)
 
 This repository will keep updating ... 🤗
 ***
