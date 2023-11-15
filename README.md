@@ -79,3 +79,6 @@ This repository will keep updating ... 🤗
 
 ## Safe LLM
 Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper][https://arxiv.org/pdf/2304.03279.pdf]
+
+## Alignment LLM
+LIMA: Less Is More for Alignmen. [paper](https://arxiv.org/pdf/2305.11206.pdf)
