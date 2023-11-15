@@ -77,8 +77,12 @@ This repository will keep updating ... 🤗
 * Can We Edit Factual Knowledge by In-Context Learning? [paper](https://arxiv.org/pdf/2305.12740.pdf)
 👆 [Back to Top](#paper-list)
 
-## Safe LLM
-Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper][https://arxiv.org/pdf/2304.03279.pdf]
+## Safe/Reliable LLM
+Align the LLM to human values to avoid risks by either fine-tuning or frozen-llm.
+* Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper][https://arxiv.org/pdf/2304.03279.pdf]
+* Fine-tuning Language Models for Factuality. [paper](https://arxiv.org/pdf/2311.08401.pdf)
+👆 [Back to Top](#paper-list)
 
 ## Alignment LLM
-LIMA: Less Is More for Alignmen. [paper](https://arxiv.org/pdf/2305.11206.pdf)
+Comparing to the last entry, its applications are more general.
+* LIMA: Less Is More for Alignmen. [paper](https://arxiv.org/pdf/2305.11206.pdf)
