@@ -99,6 +99,8 @@ Comparing to the last entry, its applications are more general.
 (2) Parameter-Frozen
 
 * RAIN: Your Language Models Can Align Themselves without Finetuning. Peking Uni. 202309. [Github](https://github.com/SafeAILab/RAIN) [paper](https://arxiv.org/abs/2309.07124)
+
+  TL;DR: Beam Search similarily
   
 👆 [Back to Top](#paper-list)
 
