@@ -92,9 +92,10 @@ Align the LLM to human values to avoid risks by either fine-tuning or frozen-llm
 ## Alignment LLM
 Comparing to the last entry, its applications are more general.
 
-(1) Fine-tune/Training
+(1) Fine-tune/Training on curated datasets. The keypoints could be the datasets.
 
 * LIMA: Less Is More for Alignmen. 2023.05. MetaAI/CMU [paper](https://arxiv.org/pdf/2305.11206.pdf)
+* Fine-Grained Human Feedback Gives Better Rewards for Language Model Training. [paper](https://arxiv.org/abs/2306.01693)
   
 (2) Parameter-Frozen
 
