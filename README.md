@@ -79,8 +79,9 @@ This repository will keep updating ... 🤗
 
 ## Safe/Reliable LLM
 Align the LLM to human values to avoid risks by either fine-tuning or frozen-llm.
-* Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper][https://arxiv.org/pdf/2304.03279.pdf]
+* Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper](https://arxiv.org/pdf/2304.03279.pdf)
 * Fine-tuning Language Models for Factuality. [paper](https://arxiv.org/pdf/2311.08401.pdf)
+  
 👆 [Back to Top](#paper-list)
 
 ## Alignment LLM
@@ -89,4 +90,6 @@ Fine-tune/Training
 * LIMA: Less Is More for Alignmen. [paper](https://arxiv.org/pdf/2305.11206.pdf)
 Parameter-Frozen
 * RAIN: Your Language Models Can Align Themselves without Finetuning. [paper](https://arxiv.org/abs/2309.07124)
+
+👆 [Back to Top](#paper-list)
 
