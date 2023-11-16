@@ -83,7 +83,7 @@ Align the LLM to human values to avoid risks by either fine-tuning or frozen-llm
 
   TL;DR: A benchmark for reward and ethical behavior evaluation. And Two baseline models.
   
-* Fine-tuning Language Models for Factuality. [paper](https://arxiv.org/pdf/2311.08401.pdf)
+* Fine-tuning Language Models for Factuality. Arxiv.2023.11. Stanford Uni. [paper](https://arxiv.org/pdf/2311.08401.pdf)
 
   TL;DR: They fine-tune the model on annotation data which are selected as factually correct sampled from the model responses.
   
@@ -94,11 +94,11 @@ Comparing to the last entry, its applications are more general.
 
 (1) Fine-tune/Training
 
-* LIMA: Less Is More for Alignmen. [paper](https://arxiv.org/pdf/2305.11206.pdf)
+* LIMA: Less Is More for Alignmen. 2023.05. MetaAI/CMU [paper](https://arxiv.org/pdf/2305.11206.pdf)
   
 (2) Parameter-Frozen
 
-* RAIN: Your Language Models Can Align Themselves without Finetuning. [paper](https://arxiv.org/abs/2309.07124)
+* RAIN: Your Language Models Can Align Themselves without Finetuning. Peking Uni. 202309. [Github](https://github.com/SafeAILab/RAIN) [paper](https://arxiv.org/abs/2309.07124)
   
 👆 [Back to Top](#paper-list)
 
