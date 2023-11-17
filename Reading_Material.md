@@ -35,8 +35,7 @@ This repository will keep updating ... 🤗
 [My own Notes](https://zhuanlan.zhihu.com/p/652269984)
 * In-context Learning and Induction Heads (Anthropic AI) [paper](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 * Transformers as Algorithms: Generalization and Stability in In-context Learning. ICML23. [paper](https://arxiv.org/pdf/2301.07067.pdf)
-  - Prerequisite reading
-    - A Mathematical Framework for Transformer Circuits. [paper](https://transformer-circuits.pub/2021/framework/index.html#three-kinds-of-composition)
+  - Prerequisite reading: A Mathematical Framework for Transformer Circuits. [paper](https://transformer-circuits.pub/2021/framework/index.html#three-kinds-of-composition)
 ### Gradient Approximate
 (machine learning/theory)
 * Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers2022. [paper](https://arxiv.org/abs/2212.10559)
