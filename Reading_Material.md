@@ -96,7 +96,8 @@ Comparing to the last entry, its applications are more general.
 
 * LIMA: Less Is More for Alignmen. 2023.05. MetaAI/CMU [paper](https://arxiv.org/pdf/2305.11206.pdf)
 * Fine-Grained Human Feedback Gives Better Rewards for Language Model Training. Neurips23, Oral [paper](https://arxiv.org/abs/2306.01693)
-  
+* Learning Customized Human Preferences. 2023.09. Arxiv. [Github](https://github.com/Linear95/DSP)
+  TL;DR: To learn a customized reward model well while preserving its general preference ability. This is a Domain-Specific Preference (DSP) dataset and test multiple training and data strategies for customized Reward Model learning.
 (2) Parameter-Frozen
 
 * RAIN: Your Language Models Can Align Themselves without Finetuning. Peking Uni. 202309. [Github](https://github.com/SafeAILab/RAIN) [paper](https://arxiv.org/abs/2309.07124)
