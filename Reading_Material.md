@@ -22,6 +22,7 @@ This repository will keep updating ... 🤗
 ## Efficient Large Language Model
 * Fast inference from transformers via speculative decoding. ICLR23 oral. [paper](https://arxiv.org/abs/2211.17192)
 * SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification. [paper](https://arxiv.org/pdf/2305.09781.pdf)
+* S-LoRA: Serving Thousands of Concurrent LoRA Adapters. Stanford Uni. Arxiv. 202311. [Paper](https://arxiv.org/abs/2311.03285)
 
 👆 [Back to Top](#paper-list)
 
