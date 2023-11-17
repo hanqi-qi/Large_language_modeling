@@ -70,11 +70,13 @@ This repository will keep updating ... 🤗
 👆 [Back to Top](#paper-list)
 ## Cognitive LLMs
 * Dissociating Language and thought in large Language Model: a cognitive perspective. [paper](https://arxiv.org/pdf/2301.06627.pdf)
-* Using cognitive psychology to understand GPT-3. [paper](https://arxiv.org/abs/2206.14576) 
+* Using cognitive psychology to understand GPT-3. [paper](https://arxiv.org/abs/2206.14576)
+  
 👆 [Back to Top](#paper-list)
 
 ## Model Editing
 * Can We Edit Factual Knowledge by In-Context Learning? [paper](https://arxiv.org/pdf/2305.12740.pdf)
+  
 👆 [Back to Top](#paper-list)
 
 ## Safe/Reliable LLM
@@ -92,12 +94,14 @@ Align the LLM to human values to avoid risks by either fine-tuning or frozen-llm
 ## Alignment LLM
 Comparing to the last entry, its applications are more general.
 
-(1) Fine-tune/Training on curated datasets. The keypoints could be the datasets.
+(1) Fine-tune/Training on curated datasets. The keypoints could be the datasets, training strategies...
 
 * LIMA: Less Is More for Alignmen. 2023.05. MetaAI/CMU [paper](https://arxiv.org/pdf/2305.11206.pdf)
 * Fine-Grained Human Feedback Gives Better Rewards for Language Model Training. Neurips23, Oral [paper](https://arxiv.org/abs/2306.01693)
 * Learning Customized Human Preferences. 2023.09. Arxiv. [Github](https://github.com/Linear95/DSP)
+  
   TL;DR: To learn a customized reward model well while preserving its general preference ability. This is a Domain-Specific Preference (DSP) dataset and test multiple training and data strategies for customized Reward Model learning.
+
 (2) Parameter-Frozen
 
 * RAIN: Your Language Models Can Align Themselves without Finetuning. Peking Uni. 202309. [Github](https://github.com/SafeAILab/RAIN) [paper](https://arxiv.org/abs/2309.07124)
