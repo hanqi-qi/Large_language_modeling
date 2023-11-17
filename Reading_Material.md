@@ -23,6 +23,8 @@ This repository will keep updating ... 🤗
 * Fast inference from transformers via speculative decoding. ICLR23 oral. [paper](https://arxiv.org/abs/2211.17192)
 * SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification. [paper](https://arxiv.org/pdf/2305.09781.pdf)
 * S-LoRA: Serving Thousands of Concurrent LoRA Adapters. Stanford Uni. Arxiv. 202311. [Paper](https://arxiv.org/abs/2311.03285)
+* SOUNDLOCD: AN EFFICIENT CONDITIONAL DISCRETE CONTRASTIVE LATENT DIFFUSION MODEL FOR TEXT-TO-SOUND GENERATION. Deepmind. [paper](https://www.researchgate.net/profile/Xinlei-Niu/publication/373871443_SoundLoCD_An_Efficient_Conditional_Discrete_Contrastive_Latent_Diffusion_Model_for_Text-to-Sound_Generation/links/6502c0de808f9268d573ff53/SoundLoCD-An-Efficient-Conditional-Discrete-Contrastive-Latent-Diffusion-Model-for-Text-to-Sound-Generation.pdf)
+  - Combine Lora and Diffusion Model.
 
 👆 [Back to Top](#paper-list)
 
