@@ -14,6 +14,7 @@ Paper reading list in LLMs:
 - [Model Editing](#model-edit)
 - [Safe LLMs](#safe-llm)
 - [Alignment LLMs](#alignment-llm)
+- [Robust LLMs](#robust-llm)
 
 This repository will keep updating ... 🤗
 ***
@@ -111,4 +112,7 @@ Comparing to the last entry, its applications are more general.
   TL;DR: Beam Search similarily
   
 👆 [Back to Top](#paper-list)
+
+# Robust LLM
+* Mindstorms in Natural Language-Based Societies of Mind. [paper](https://arxiv.org/pdf/2305.17066.pdf). Best Paper in Robustness Workshop, Neurips23
 
